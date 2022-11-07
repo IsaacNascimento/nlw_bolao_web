@@ -1,1 +1,14 @@
 npx create-next-app@latest
+
+
+===================================
+
+aula 02
+
+. Bibliotecas UI:
+
+npm i -D tailwindcss postcss autoprefixer
+
+. Criar arquivo de configuração
+
+npx tailwindcss init -p
